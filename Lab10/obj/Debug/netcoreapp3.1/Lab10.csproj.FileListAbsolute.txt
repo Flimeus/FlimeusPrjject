@@ -1,0 +1,13 @@
+D:\Study\2 course\C#\TaskForPD24\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfoInputs.cache
+D:\Study\2 course\C#\TaskForPD24\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfo.cs
+D:\Study\2 course\C#\TaskForPD24\Lab10\obj\Debug\netcoreapp3.1\Lab10.csproj.CoreCompileInputs.cache
+D:\Study\2 course\C#\TaskForPD24\Lab10\obj\Debug\netcoreapp3.1\Lab10.csprojAssemblyReference.cache
+D:\Study\2 course\C#\TaskForPD24\Lab10\bin\Debug\netcoreapp3.1\Lab10.exe
+D:\Study\2 course\C#\TaskForPD24\Lab10\bin\Debug\netcoreapp3.1\Lab10.deps.json
+D:\Study\2 course\C#\TaskForPD24\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.json
+D:\Study\2 course\C#\TaskForPD24\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.dev.json
+D:\Study\2 course\C#\TaskForPD24\Lab10\bin\Debug\netcoreapp3.1\Lab10.dll
+D:\Study\2 course\C#\TaskForPD24\Lab10\bin\Debug\netcoreapp3.1\Lab10.pdb
+D:\Study\2 course\C#\TaskForPD24\Lab10\obj\Debug\netcoreapp3.1\Lab10.dll
+D:\Study\2 course\C#\TaskForPD24\Lab10\obj\Debug\netcoreapp3.1\Lab10.pdb
+D:\Study\2 course\C#\TaskForPD24\Lab10\obj\Debug\netcoreapp3.1\Lab10.genruntimeconfig.cache

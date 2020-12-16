@@ -1,0 +1,13 @@
+D:\Study\2 course\C#\TaskForPD24\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+D:\Study\2 course\C#\TaskForPD24\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+D:\Study\2 course\C#\TaskForPD24\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+D:\Study\2 course\C#\TaskForPD24\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+D:\Study\2 course\C#\TaskForPD24\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+D:\Study\2 course\C#\TaskForPD24\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+D:\Study\2 course\C#\TaskForPD24\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+D:\Study\2 course\C#\TaskForPD24\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+D:\Study\2 course\C#\TaskForPD24\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+D:\Study\2 course\C#\TaskForPD24\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+D:\Study\2 course\C#\TaskForPD24\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+D:\Study\2 course\C#\TaskForPD24\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
+D:\Study\2 course\C#\TaskForPD24\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
