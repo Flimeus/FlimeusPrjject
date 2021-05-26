@@ -1,0 +1,10 @@
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\bin\Debug\CalculatorOfDifferentNumericalSystems.exe.config
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\bin\Debug\CalculatorOfDifferentNumericalSystems.exe
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\bin\Debug\CalculatorOfDifferentNumericalSystems.pdb
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\obj\Debug\CalculatorOfDifferentNumericalSystems.csprojAssemblyReference.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\obj\Debug\CalculatorOfDifferentNumericalSystems.Form1.resources
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\obj\Debug\CalculatorOfDifferentNumericalSystems.Properties.Resources.resources
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\obj\Debug\CalculatorOfDifferentNumericalSystems.csproj.GenerateResource.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\obj\Debug\CalculatorOfDifferentNumericalSystems.csproj.CoreCompileInputs.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\obj\Debug\CalculatorOfDifferentNumericalSystems.exe
+D:\Study\2 course\2 SM\PD-24\Danya\C#\Курсач\CalculateNumericalSystems\CalculatorOfDifferentNumericalSystems\obj\Debug\CalculatorOfDifferentNumericalSystems.pdb
