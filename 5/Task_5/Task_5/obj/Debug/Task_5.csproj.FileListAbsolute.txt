@@ -1,0 +1,14 @@
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\bin\Debug\Task_5.exe.config
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\bin\Debug\Task_5.exe
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\bin\Debug\Task_5.pdb
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\Task_5.csprojAssemblyReference.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\MainWindow.baml
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\MainWindow.g.cs
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\App.g.cs
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\Task_5_MarkupCompile.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\Task_5.g.resources
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\Task_5.Properties.Resources.resources
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\Task_5.csproj.GenerateResource.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\Task_5.exe
+D:\Study\2 course\2 SM\PD-24\Danya\C#\5\Task_5\Task_5\obj\Debug\Task_5.pdb
