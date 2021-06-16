@@ -1,0 +1,9 @@
+D:\Study\2 course\2 SM\PD-24\Danya\C#\3\Task_3\Task_3\bin\Debug\Task_3.exe.config
+D:\Study\2 course\2 SM\PD-24\Danya\C#\3\Task_3\Task_3\bin\Debug\Task_3.exe
+D:\Study\2 course\2 SM\PD-24\Danya\C#\3\Task_3\Task_3\bin\Debug\Task_3.pdb
+D:\Study\2 course\2 SM\PD-24\Danya\C#\3\Task_3\Task_3\obj\Debug\Task_3.csprojAssemblyReference.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\3\Task_3\Task_3\obj\Debug\Task_3.Properties.Resources.resources
+D:\Study\2 course\2 SM\PD-24\Danya\C#\3\Task_3\Task_3\obj\Debug\Task_3.csproj.GenerateResource.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\3\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\3\Task_3\Task_3\obj\Debug\Task_3.exe
+D:\Study\2 course\2 SM\PD-24\Danya\C#\3\Task_3\Task_3\obj\Debug\Task_3.pdb
