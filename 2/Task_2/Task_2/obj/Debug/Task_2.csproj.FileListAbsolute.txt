@@ -1,0 +1,10 @@
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\bin\Debug\Task_2.exe.config
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\bin\Debug\Task_2.exe
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\bin\Debug\Task_2.pdb
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\obj\Debug\Task_2.Form1.resources
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\obj\Debug\Task_2.Properties.Resources.resources
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\obj\Debug\Task_2.csproj.GenerateResource.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\obj\Debug\Task_2.exe
+D:\Study\2 course\2 SM\PD-24\Danya\C#\2\Task_2\Task_2\obj\Debug\Task_2.pdb
